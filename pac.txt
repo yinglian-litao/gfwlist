@@ -15,6 +15,18 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
+!--自定义
+||*.ip138.com
+||*.atom.io
+||*.github.com^
+||*.python.org^
+||*.pypi.org^
+||*.docker.com^
+||*.coder.com^
+||*.githubusercontent.com^
+||*.visualstudio.com^
+||*shadowsocks.*
+
 !---------403/451/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
@@ -7982,6 +7994,7 @@ ultrasurf
 @@|http://ime.baidu.jp
 !################Whitelist End##################
 !---------------------EOF-----------------------
+
 
 
 
